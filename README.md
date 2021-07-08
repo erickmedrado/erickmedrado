@@ -1,8 +1,6 @@
-👋 Hi, i’m Erick (@erickmedrado), and i have been working for more than 7 years as a programmer in the areas of web development and software analyst,
-with a focus on web systems development and maintenance, website design and development and systems analysis, with extensive experience
-in front-end and back-end programming.
+👋 Hi, i’m Erick (@erickmedrado), and i have been working for over 7 years as a programmer in the areas of web development and software analyst, focusing on development and maintenance of websites and web systems. I have experience in both front-end and back-end programming.
 
-👀 I’m interested in front-end development and for now i am studying Vue.js.
+👀 I'm currently working mainly with front-end development and  for now i'm studying and working with Vue.js.
 
 <!---
 erickmedrado/erickmedrado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
