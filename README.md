@@ -56,9 +56,6 @@ Olá, eu sou o Erick, sou <strong>Desenvolvedor Front-End Pleno</strong> e traba
 
 <h3 align="left">📬 Contato: </h3>
 <p align="left">
-    <a href="mailto:j.erick.primo@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/j.erick.primo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
     <a href="https://www.linkedin.com/in/erickmedrado/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn">
     </a>
@@ -70,6 +67,9 @@ Olá, eu sou o Erick, sou <strong>Desenvolvedor Front-End Pleno</strong> e traba
     </a>
     <a href="https://www.instagram.com/medrado.erick/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:j.erick.primo@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/j.erick.primo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 </p>
 <hr>
