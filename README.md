@@ -44,7 +44,7 @@ Olá, eu sou o Erick, sou <strong>Desenvolvedor Front-End Pleno</strong> e traba
     <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </div>
 
-<h3 align="left">📚 Tenho interesse em aprender:</h3>
+<h3 align="left">🚀 Tenho interesse em aprender:</h3>
 <div style="display: flex; justify-content: space-between">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
