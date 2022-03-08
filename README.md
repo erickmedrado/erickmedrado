@@ -5,8 +5,8 @@
 
 # Opa, 👋 tudo bom?
 
-
-Olá, eu sou o Erick, sou <strong>Desenvolvedor Front-End</strong> e trabalho há mais de 7 anos como programador nas áreas de desenvolvimento web e analista de software, com foco no desenvolvimento e manutenção de sites e sistemas web. <br>Tenho experiência em programação front-end e back-end, mas nos últimos anos tenho focando mais na parte de front-end.<br>
+Olá, eu sou o Erick, sou <strong>Desenvolvedor Front-End</strong> e trabalho há mais de 7 anos como programador na área de desenvolvimento web, com foco no desenvolvimento e manutenção de sites e sistemas web. Tenho experiência tanto em programação Front-end quanto em Back-end.<br>
+Tenho bastante experiência com Wordpress, PHP, e outras ferramentas de desenvolvimento web, mas nos últimos anos tenho focando mais no desenvolvimento Front-end e no momento estou estudando e trabalhando com Vue.js.<br>
 <br>
 
 <h3 align="left">🎓 Competências:</h3>
