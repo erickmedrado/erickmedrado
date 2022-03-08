@@ -6,7 +6,8 @@
 # Hi, 👋 how are you?
 
 
-Hi, i'm Erick, i'm <strong>Front-End Developer</strong> and i've been working for over 7 years as a programmer in the areas of web development and software analyst, focusing on the development and maintenance of websites and web systems . <br>I have experience in front-end and back-end programming, but in recent years I have been focusing more on the front-end part.<br>
+Hi, i'm Erick, i'm <strong>Front-End Developer</strong>  and I've been working for over 7 years as a programmer in the area of web development, focusing on the development and maintenance of websites and web systems. I have experience in both Front-end and Back-end programming.<br>
+I have a lot of experience with Wordpress, PHP, and other web development tools, but currently i work mainly with Front-end development and at the moment I'm studying and working with Vue.js.<br>
 <br>
 
 <h3 align="left">🎓 Skills:</h3>
